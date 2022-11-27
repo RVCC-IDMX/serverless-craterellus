@@ -1,3 +1,4 @@
+// eslint-disable-next-line func-names
 exports.handler = async function () {
   return {
     statusCode: 200,
